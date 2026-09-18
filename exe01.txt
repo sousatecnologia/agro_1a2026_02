@@ -1,0 +1,79 @@
+CENTRO UNIVERSITÁRIO UNITOP – UNITOP
+CURSO DE AGRONOMIA
+
+INTRODUÇÃO À INFORMÁTICA
+
+PRIMEIRO PROJETO – INTRODUÇÃO À INFORMÁTICA APLICADA À AGRONOMIA
+Autor: Nome do aluno
+
+Resumo: Neste projeto serão explorados diferentes aspectos relacionados à utilização da informática como ferramenta de apoio às atividades desenvolvidas na área de Agronomia. Serão abordados conceitos básicos de informática, incluindo hardware, software, sistemas operacionais, organização e gerenciamento de arquivos, utilização da internet, ferramentas de produtividade e aplicação de recursos computacionais na organização e análise de informações agrícolas.
+
+1. Introdução:
+A informática está presente em praticamente todas as atividades relacionadas ao setor agropecuário. Atualmente, o profissional de Agronomia utiliza computadores, smartphones, sistemas de informação, aplicativos, planilhas eletrônicas, bancos de dados, imagens de satélite e diversas outras tecnologias para coletar, organizar, analisar e apresentar informações.
+Dessa forma, o conhecimento básico de informática constitui uma importante ferramenta para a formação do futuro engenheiro agrônomo. Não se trata apenas de saber utilizar um computador, mas de compreender como os recursos tecnológicos podem ser empregados para solucionar problemas e melhorar a eficiência das atividades agrícolas.
+O projeto proposto tem como objetivo familiarizar o estudante do curso de Agronomia com os principais conceitos de informática e demonstrar suas aplicações práticas no contexto agrícola.
+Nesse cenário, serão explorados diversos aspectos, tais como:
+
+Ø	identificação dos principais componentes de um computador;
+Ø	diferenças entre hardware e software;
+Ø	funcionamento básico de um sistema operacional;
+Ø	organização de arquivos e pastas;
+Ø	utilização de editores de texto;
+Ø	utilização de planilhas eletrônicas;
+Ø	elaboração de tabelas e gráficos;
+Ø	pesquisa e obtenção de informações na internet;
+Ø	armazenamento e compartilhamento de arquivos;
+Ø	segurança da informação;
+Ø	utilização da informática para organização de informações agrícolas.
+
+A metodologia utilizada para o desenvolvimento do projeto será baseada em atividades práticas realizadas no laboratório de informática. Os estudantes deverão utilizar ferramentas computacionais para resolver uma situação-problema relacionada à atividade agrícola.
+Como situação prática, poderá ser considerada uma propriedade rural que necessite organizar informações referentes às suas áreas de cultivo, culturas produzidas, produtividade, custos de produção e demais informações relevantes para o planejamento agrícola.
+A partir desses dados, os estudantes deverão utilizar recursos de informática para organizar, processar e apresentar as informações de maneira clara e adequada.
+
+2. Desenvolvimento do Projeto
+O projeto será desenvolvido em etapas, permitindo que o estudante avance gradativamente desde os conceitos básicos de informática até a aplicação desses conhecimentos em uma situação relacionada à Agronomia.
+Inicialmente, será realizado um estudo sobre os principais componentes de um computador, diferenciando hardware e software. Nesse momento, serão apresentados exemplos de equipamentos utilizados no cotidiano do profissional de Agronomia, como computadores, notebooks, tablets, smartphones, receptores GPS e outros dispositivos utilizados para coleta e processamento de informações.
+Em seguida, será abordado o conceito de sistema operacional, destacando sua importância para o funcionamento do computador e para o gerenciamento de arquivos, programas e dispositivos.
+Também será trabalhada a organização de arquivos e pastas. Os estudantes deverão criar uma estrutura de armazenamento para organizar documentos relacionados a uma propriedade rural, por exemplo:
+PROPRIEDADE_RURAL
+→ Documentos
+→ Culturas
+→ Produtividade
+→ Custos
+→ Imagens
+→ Relatórios
+→ Mapas
+Essa atividade permitirá compreender a importância da organização digital das informações para facilitar sua localização, utilização e preservação.
+Na etapa seguinte, serão utilizadas ferramentas de edição de textos para elaboração de um pequeno relatório técnico. O documento poderá conter informações sobre uma propriedade rural fictícia, sua área, culturas produzidas, produtividade e principais características da produção.
+Posteriormente, será utilizada uma planilha eletrônica para organizar e analisar dados agrícolas. Os estudantes poderão trabalhar, por exemplo, com informações referentes a diferentes culturas:
+
+Cultura	Área cultivada (ha)	Produção (t)	Produtividade (t/ha)
+Soja	100	360	3,60
+Milho	80	480	6,00
+Arroz	50	250	5,00
+
+A partir dos dados, os estudantes deverão utilizar fórmulas para realizar cálculos e produzir gráficos que possibilitem comparar as culturas e seus resultados.
+Essa etapa é particularmente importante porque demonstra que a informática pode transformar dados brutos em informações úteis para a tomada de decisões.
+Outro aspecto abordado será a utilização da internet como fonte de informação para a Agronomia. Os estudantes deverão aprender a realizar pesquisas, identificar fontes confiáveis, comparar informações e utilizar corretamente os dados encontrados na elaboração de trabalhos acadêmicos.
+Também serão apresentados conceitos básicos de segurança da informação, incluindo a importância de senhas seguras, cópias de segurança, cuidados com arquivos recebidos pela internet, identificação de possíveis golpes e proteção dos dados armazenados em computadores e dispositivos móveis.
+Por fim, será discutida a relação entre informática e outras tecnologias utilizadas na Agronomia, como geoprocessamento, Sistemas de Informação Geográfica (SIG), sensoriamento remoto, GPS, agricultura de precisão, imagens de satélite, drones e sistemas de gerenciamento de propriedades rurais.
+Dessa maneira, o estudante poderá perceber que os conhecimentos adquiridos na disciplina de Introdução à Informática constituem uma base para o aprendizado de tecnologias mais avançadas que serão utilizadas ao longo de sua formação acadêmica e profissional.
+
+3. Conclusões do Projeto
+O desenvolvimento deste projeto permitirá aos estudantes compreender que a informática constitui uma importante ferramenta para a formação e atuação profissional do engenheiro agrônomo.
+Por meio das atividades práticas, será possível perceber que conhecimentos básicos de informática podem ser aplicados na organização de informações, elaboração de documentos, análise de dados, produção de gráficos, pesquisa acadêmica e planejamento das atividades agrícolas.
+Os resultados esperados com o projeto são:
+Ø	compreender os conceitos básicos de hardware e software;
+Ø	reconhecer a importância dos sistemas operacionais;
+Ø	organizar adequadamente arquivos e informações digitais;
+Ø	utilizar ferramentas de edição de textos;
+Ø	utilizar planilhas eletrônicas para organização e análise de dados;
+Ø	produzir gráficos a partir de informações agrícolas;
+Ø	desenvolver maior autonomia na utilização do computador;
+Ø	realizar pesquisas na internet utilizando fontes confiáveis;
+Ø	compreender a importância da segurança e do armazenamento adequado das informações;
+Ø	reconhecer a importância da informática para as atividades profissionais da Agronomia.
+Conclui-se, portanto, que a informática não deve ser compreendida apenas como uma ferramenta de apoio às atividades acadêmicas, mas como um recurso fundamental para o exercício da profissão de engenheiro agrônomo.
+A capacidade de coletar, organizar, analisar e interpretar informações por meio de ferramentas computacionais será cada vez mais importante no desenvolvimento de uma agricultura eficiente, tecnificada e orientada por dados.
+Essa versão também permite que o projeto seja transformado em uma atividade prática para os alunos, com uma situação-problema, conjunto de dados agrícolas, roteiro de execução no computador e critérios de avaliação.
+
